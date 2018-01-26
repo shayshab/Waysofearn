@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="anew.shayshab.com.waysofearn.Main3Activity">
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:text="Ever since the idea of online auctions came into existence, the online selling market has been on the rise. Many are interested, but don’t know how to get started. There are still all kinds of ways to make money by selling online, whether you’re selling what you already have or buying and selling like a store. Before we get started, here are a few general tips when selling anything online:
+
+Get a PayPal account. If you don’t have a PayPal account, you’ll want to get one if you’re doing business online. It’s the standard in online business for receiving payment and paying others.
+Take good pictures. Some of the options below don’t require you to actually take the picture and sell the product, but for the ones that do, make sure you take a clear picture that makes your product stand out from the others.  If you’re going to be taking a lot of pictures, set up a small “studio-like” area in your home with a backdrop and proper lighting to really make your pictures come across as professional. And of course, you’ll want a good camera too.
+Be honest.  If you’re selling used items, be honest about every dent, scratch, blemish, etc.. This will reduce many issues you could run into and keep your reviews positive.
+Do good business. Plain and simple. Whether you’re selling on a small site or opening an online store, your customer service matters. You’ll want to get those positive reviews and make a good name for yourself. Respond to questions, concerns and complaints. Offer a guarantee if available.
+Follow those guidelines and you will do well in online sales. When you’re ready to start selling, here’s where you go:
+
+Amazon – Have you heard of FBA? It stands for “Fulfilled by Amazon” and it’s getting pretty popular. Basically, you buy products (in bulk is best) and ship them to Amazon for them to store. When your products sell, Amazon packs them up, ships them out and sends you the money (after taking their cut). There are people making a full-time living from FBA, while others just do it for some extra money.
+CraigsList – Some things don’t ship very well. Other things may make you feel uncomfortable to sell to someone across the country. Anytime you’re selling a large item or something you just don’t want to ship, Craigslist is a great place to go. It’s simple to list your item (again, take good pictures!). If you don’t like the idea of putting your phone number out there, the interested individual can send you a message to your inbox without even getting your email address.
+eBay – Of course you can’t read an article about making money online that doesn’t mention eBay. You can start an eBay store and get serious about it or you can just sell some stuff to declutter your home. Either way, I’ve made my fair share from selling on eBay and it’s still a popular way to earn money. If you decide to start an actual eBay store, you’ll want to find a drop-ship business like Doba that will store and ship items straight to your customers so you don’t have to deal with an inventory.
+Etsy – If you like to create arts and crafts, you can sell them on Etsy.It’s completely free to open an Etsy store. You simply sign up, post pictures of your creations and starting selling. You can choose your payment option, but PayPal is generally the easiest. Etsy makes it easy to sell and keep track of your inventory. There is a small listing fee and they take 3.5% of every sale you make.
+Facebook – Facebook swap shops are great for selling things locally. It’s like CraigsList, but a little easier. You simply search for swap shops in your area and ask to join the group. Once you’re in, take a picture of the item, write a quick description with the price and post it. It doesn’t get much easier than that. You can generally expect to get about what you would get at a yard sale, maybe a little more."
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+
+</ScrollView>
+</RelativeLayout>

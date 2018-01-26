@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="anew.shayshab.com.waysofearn.Main7Activity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:text="Finally, there are some companies that will hire you to work from the comfort of your own home. If you’re interested in working for someone else, while still making your own schedule and deciding where to work from, here are a few companies that will let you do just that:
+
+    CrowdSource – CrowdSource offers many types of jobs from “microtask” jobs to larger writing and editing jobs. You decide how much you work and you can do most of it right at your computer.
+    Demand Studios – Demand Studios is hiring all kinds of creative professionals, from writer to filmmakers. The pay isn’t amazing, but it’s competitive for a work-at-home job.
+    Fast Chart – Fast Chart allows you to work from home as a medical transcriptionist. There are some requirments and qualifications listed on the page, but if you meet them, you’ll make competitive pay for the industry. You’ll also be able to set your own schedule since you’ll be working from home.
+    Leap Force – Leap Force is one way that Google rates websites for search engine ranking. If you’re hired, you make decent money (usually over $11/hour), you set your own schedule and it can be pretty fun to view and rank websites.
+    Liveops – Liveops is a call center that allows you to work from home. Once your set up to take the calls, you can begin making a weekly schedule and working from home. The pay is generally close to $10/hour, but you can earn more with commissions.
+    SpeakWrite – SpeakWrite will pay you up to $15/hour to transcribe information. You set your own schedule and work from home.
+    Now you’ve got many different options to start earning online. If you saw something that really interests you, try it out and learn more about it. If you’re really wanting to make a full-time income online, you need to be dedicated to learning how to do what you want to do. There are tons of free resources out there. You just have to search for them!"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView6" />
+
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="anew.shayshab.com.waysofearn.Activity1">
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:text="1. Websites That Pay
+Let’s go ahead and get this out of the way. There are all kinds of websites that will pay you for various things, such as shopping, taking surveys or testing products. No, I’m not getting paid to promote any of these and no, these websites won’t make you a millionaire, but they are great for earning some extra cash. I’ll leave out the scams.
+
+Here are some legitimate websites that pay:
+
+Swagbucks – Swagbucks is great for earning some extra cash. You can do a variety of things to make money, from taking surveys to using their search engine. You won’t get rich, but you will earn a few bucks. If you have the time to kill, you can spend it earning some extra cash, instead of surfing the web.
+InboxDollars – InboxDollars is similar to Swagbucks, since you’re going to be taking surveys, shopping, etc., so if you want to maximize your return, sign up with both websites. They also offer a search engine that pays you (like Swagbucks) and you get $5 just for signing up.  I won’t continue to list survey sites one after another down the list, but if you want to get paid to take surveys, also check out GlobalTestMarket, E-Poll Surveys and Survey Club.
+Project Payday – Project Payday is one of those sites that has testimonials of people who have earned thousands of dollars by getting paid to get trial offers. I’m not saying you’ll earn thousands, but it is legit and you can earn some extra cash. They assume that by paying you to do a free trial, you’ll either like the product and purchase it, or forget to cancel the trial and get charged for it. If you can keep track and cancel before you get charged (if you don’t want the product), then this is a great site for making some money.
+User Testing – User Testing pays $10 a pop for testing websites. A test usually takes about 15-20 minutes. The purpose is for a website owner to watch someone, who is new to their site, try to navigate it. The value that the site owner gets by watching an actual user experience is worth a ton, but $10 isn’t a bad pay-out.
+Fiverr – Fiverr is a great place to make a few bucks or spend a few bucks if you need some of the services people offer. Basically, everything is $5. You either pay $5 or charge $5. They call them “gigs.” You can offer your services however you choose. If you sell art and you’re fine selling pieces for $5 each, that’s a gig. If you’re a graphic designer and you want to offer your services for $10/hour, simply offer a 30 minute gig. If they need two hours of graphic design, they pay you $20, or $10/hour by buying four gigs.
+IZEA – IZEA works in addition to a blog or on its own. You get paid to blog, tweet, take photos and take videos. The pay is mostly based on your following, so if you want to make money with your tweets, you’ll need to grow you Twitter following.  Likewise, if you want to make money with blogs, you’ll need substantial blog traffic"
+        android:textSize="20dp"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+</ScrollView>
+</RelativeLayout>

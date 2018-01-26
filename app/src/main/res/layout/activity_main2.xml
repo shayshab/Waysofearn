@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="anew.shayshab.com.waysofearn.Main2Activity">
+
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:text="Freelance writing is one of the most popular ways to earn money online. Many successful freelancers can earn an average of 50 cents to a dollar per word. Some are earning twice that!
+
+Of course, it doesn’t start out like that. You’ve got to build your portfolio and your résumé, blah blah blah. If you’re interested in writing, I’m sure you know this. If you’re not interested in writing, I wouldn’t recommend traveling down this road just for the money.
+
+It takes dedication and time, though it can be highly profitable if it’s what you love. Assuming it is what you love, let’s talk about making money with it.
+
+Before you decide to start reaching out to all of these freelance writing companies, you need to have a web presence. You need a blog (in my humble blogger opinion, of course).
+
+Or you could just have an online portfolio. Even a LinkedIn profile works to get started. When you’re ready to start, here are 150 resources to help you write better, faster and more persuasively.
+
+If that’s intimidating, just start with these 50 resources.
+
+Now for what you’ve all been waiting for; once you’re ready to actually start making money, here are 10 websites you can start with:
+
+Listverse – Listverse pays $100 for each accepted post. The article must be a list, it must be at least 1,500 words and you must include at least 10 things. Other than that, you can get pretty creative with it.
+TopTenz – TopTenz pays $50 for each accepted post. Again, the article has to be in a list format and it must be at least 1,500 words, with few exceptions. They post often so your chances of getting accepted are fairly high.
+A List Apart – A List Apart pays $200 for each accepted post. They’re not first on the list, because they tend to publish less articles, which means you have a smaller chance of getting accepted. Same guidelines as above, 1,500 word minimum.
+International Living – International Living pays $75 for each accepted post. They are mostly looking for travel experiences from countries you have visited. For this site, it’s more about your experience than your writing ability.
+FundsforWriters – FundsforWriters pays $50 for each accepted post. They are looking for articles about writing and making money with it. They only accept articles between 500-600 words, but they want you to make each word count.
+Uxbooth – Uxbooth pays $100 for each accepted post. They do tend to take four to eight weeks to accept and post articles, so don’t count on this being a quick money maker. They take so long, because they pair with editors to only publish amazing content.
+iWriter – iWriter pays up to $15 for each accepted post. That may seem small, but they aren’t as strict as many of the others above and they also allow you to pick exactly what you write. You can write as many or as few articles as you want.
+Textbroker – Textbroker pays up to five cents per word, if you’re a 5-star writer. You’ll start by submitting a short sample article and you will most likely start as a 3-star writer, but you can work your way up by writing more and writing great content.
+Matador Network – Matador Network pays up to $60 for each accepted post, but standard pay is around $20-$25. They don’t really focus on a minimum word count, but they have a maximum count of 1,500 words.
+The Penny Hoarder – The Penny Hoarder pays up to $800 (rarely), depending upon the number of page views you receive. The pay starts at $100 for 50,000 page views, so this isn’t a guaranteed paid article, but it can potentially be highly rewarding.
+There’s no doubt that you can make money with freelance writing, but it’s a process. Once you start building your portfolio and your writing skills, you can start making some serious money. If you’re not an experienced writer, expect to put some time in before you really start to see some dough."
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+
+</ScrollView>
+</RelativeLayout>
